@@ -1,0 +1,64 @@
+src/
+
+├── model/
+│
+│   ├── usuario/
+│   │   ├── Usuario.java
+│   │   ├── Administrador.java
+│   │   ├── Plano.java
+│   │   └── Historico.java
+│   │
+│   ├── midia/
+│   │   ├── Midia.java
+│   │   ├── Filme.java
+│   │   ├── Serie.java
+│   │   └── Documentario.java
+│   │
+│   ├── avaliacao/
+│   │   ├── Avaliacao.java
+│   │   ├── Favorito.java
+│   │   └── Recomendacao.java
+│   │
+│   ├── relatorio/
+│   │   └── Relatorio.java
+│   │
+│   └── interfaces/
+│       └── Reproduzivel.java
+│
+├── controller/
+│
+│   ├── UsuarioController.java
+│   ├── PlanoController.java
+│   ├── HistoricoController.java
+│
+│   ├── MidiaController.java
+│   ├── FilmeController.java
+│   ├── SerieController.java
+│
+│   ├── AvaliacaoController.java
+│   ├── FavoritoController.java
+│   ├── RecomendacaoController.java
+│
+│   ├── DocumentarioController.java
+│   ├── AdministradorController.java
+│   └── RelatorioController.java
+│
+├── view/
+│
+│   ├── UsuarioView.java
+│   ├── PlanoView.java
+│   ├── HistoricoView.java
+│
+│   ├── MidiaView.java
+│   ├── FilmeView.java
+│   ├── SerieView.java
+│
+│   ├── AvaliacaoView.java
+│   ├── FavoritoView.java
+│   ├── RecomendacaoView.java
+│
+│   ├── DocumentarioView.java
+│   ├── AdministradorView.java
+│   └── RelatorioView.java
+│
+└── Main.java
