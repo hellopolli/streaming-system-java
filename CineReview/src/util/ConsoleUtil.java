@@ -3,9 +3,7 @@ package util;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/**
- * Metodos auxiliares para entrada segura de dados no console.
- */
+
 public final class ConsoleUtil {
     private static final Scanner SCANNER = new Scanner(System.in);
 
