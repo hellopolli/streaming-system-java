@@ -3,9 +3,7 @@ package model;
 import java.io.Serializable;
 import java.time.LocalDateTime;
 
-/**
- * Representa uma avaliacao feita por um usuario para um conteudo.
- */
+
 public class Avaliacao implements Serializable {
     private static final long serialVersionUID = 1L;
 
