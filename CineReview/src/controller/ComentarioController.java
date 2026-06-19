@@ -7,9 +7,7 @@ import util.ValidacaoUtil;
 
 import java.util.ArrayList;
 
-/**
- * Controller responsavel pelo CRUD de comentarios.
- */
+
 public class ComentarioController {
     private final Dados dados;
 
