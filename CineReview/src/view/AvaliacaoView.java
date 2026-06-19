@@ -4,9 +4,7 @@ import controller.AvaliacaoController;
 import model.Avaliacao;
 import util.ConsoleUtil;
 
-/**
- * View de console para avaliacoes.
- */
+
 public class AvaliacaoView {
     private final AvaliacaoController controller;
 
