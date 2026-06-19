@@ -9,9 +9,7 @@ import model.Serie;
 import model.Usuario;
 import util.Dados;
 
-/**
- * Controller responsavel pelos relatorios do sistema.
- */
+
 public class RelatorioController {
     private final Dados dados;
 
