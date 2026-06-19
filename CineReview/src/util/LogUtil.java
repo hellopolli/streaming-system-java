@@ -6,9 +6,7 @@ import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 
-/**
- * Utilitario para registro e leitura de atividades do sistema.
- */
+
 public final class LogUtil {
     public static final String CAMINHO_LOG = "data/log.txt";
 
