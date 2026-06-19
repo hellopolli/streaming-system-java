@@ -5,9 +5,7 @@ import util.LogUtil;
 
 import java.util.ArrayList;
 
-/**
- * Controller responsavel pela consulta dos logs.
- */
+
 public class LogController {
     public void cadastrar(String acao, String mensagem) {
         LogUtil.registrar(acao, mensagem);
