@@ -12,9 +12,7 @@ import util.ValidacaoUtil;
 
 import java.util.ArrayList;
 
-/**
- * Controller responsavel pelo CRUD de avaliacoes.
- */
+
 public class AvaliacaoController {
     private final Dados dados;
 
