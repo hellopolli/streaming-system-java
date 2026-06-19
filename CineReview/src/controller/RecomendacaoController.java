@@ -12,9 +12,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Controller responsavel por recomendacoes baseadas em genero, nota e popularidade.
- */
+
 public class RecomendacaoController {
     private final Dados dados;
 
