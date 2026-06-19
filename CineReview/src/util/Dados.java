@@ -13,9 +13,7 @@ import model.Usuario;
 import java.io.IOException;
 import java.util.ArrayList;
 
-/**
- * Mantem as colecoes em memoria e coordena a persistencia dos arquivos.
- */
+
 public class Dados {
     private static final String PASTA = "data/";
 
