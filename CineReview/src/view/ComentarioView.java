@@ -4,9 +4,7 @@ import controller.ComentarioController;
 import model.Comentario;
 import util.ConsoleUtil;
 
-/**
- * View de console para comentarios.
- */
+
 public class ComentarioView {
     private final ComentarioController controller;
 
