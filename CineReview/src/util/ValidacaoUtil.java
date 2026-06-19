@@ -3,9 +3,7 @@ package util;
 import java.util.List;
 import java.util.function.ToIntFunction;
 
-/**
- * Centraliza validacoes de campos, IDs e notas.
- */
+
 public final class ValidacaoUtil {
     private ValidacaoUtil() {
     }
