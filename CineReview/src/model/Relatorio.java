@@ -2,9 +2,7 @@ package model;
 
 import java.io.Serializable;
 
-/**
- * Resultado textual de relatorios do sistema.
- */
+
 public class Relatorio implements Serializable {
     private static final long serialVersionUID = 1L;
 
