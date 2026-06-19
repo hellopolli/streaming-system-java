@@ -2,9 +2,7 @@ package model;
 
 import java.io.Serializable;
 
-/**
- * Recomendacao gerada pelo sistema para um usuario.
- */
+
 public class Recomendacao implements Serializable {
     private static final long serialVersionUID = 1L;
 
