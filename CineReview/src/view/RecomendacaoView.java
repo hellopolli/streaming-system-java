@@ -4,9 +4,7 @@ import controller.RecomendacaoController;
 import model.Conteudo;
 import util.ConsoleUtil;
 
-/**
- * View de console para recomendacoes.
- */
+
 public class RecomendacaoView {
     private final RecomendacaoController controller;
 
